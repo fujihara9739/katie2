@@ -1,0 +1,45 @@
+h1 {
+  color:red;
+  background-color:rgb(255, 255, 128)
+}
+}
+
+li{
+  list-style:none
+}
+
+ul{
+  float:left;
+  font-size: 30px
+}
+
+.header{
+  float:right;
+}
+
+.profile{
+  padding:10px 40px;
+}
+
+.container{
+  float:left;
+}
+.memory img{
+  width:350px;
+  height:280px;
+  padding:10px 10px;
+}
+
+.memory{
+  display:inline-block;
+  background-color:pink
+}
+
+.memory p{
+  font-size:20px;
+  font-family:ヒラギノ丸ゴ Pro W4"
+}
+
+footer p{
+  color:pink
+  background-color:red
